@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Fraud.Api/Fraud.Api.csproj" />
+  <Project Path="Fraud.Application/Fraud.Application.csproj" />
+  <Project Path="Fraud.Domain/Fraud.Domain.csproj" />
+  <Project Path="Fraud.Infrastructure/Fraud.Infrastructure.csproj" />
+  <Project Path="Fraud.Tests/Fraud.Tests.csproj" />
+</Solution>

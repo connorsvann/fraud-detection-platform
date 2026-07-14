@@ -1,0 +1,16 @@
+C:\Programming\Projects\FraudDetectionPlatform\backend\Fraud.Application\bin\Debug\net10.0\Fraud.Application.deps.json
+C:\Programming\Projects\FraudDetectionPlatform\backend\Fraud.Application\bin\Debug\net10.0\Fraud.Application.dll
+C:\Programming\Projects\FraudDetectionPlatform\backend\Fraud.Application\bin\Debug\net10.0\Fraud.Application.pdb
+C:\Programming\Projects\FraudDetectionPlatform\backend\Fraud.Application\bin\Debug\net10.0\Fraud.Domain.dll
+C:\Programming\Projects\FraudDetectionPlatform\backend\Fraud.Application\bin\Debug\net10.0\Fraud.Domain.pdb
+C:\Programming\Projects\FraudDetectionPlatform\backend\Fraud.Application\obj\Debug\net10.0\Fraud.Application.csproj.AssemblyReference.cache
+C:\Programming\Projects\FraudDetectionPlatform\backend\Fraud.Application\obj\Debug\net10.0\Fraud.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Projects\FraudDetectionPlatform\backend\Fraud.Application\obj\Debug\net10.0\Fraud.Application.AssemblyInfoInputs.cache
+C:\Programming\Projects\FraudDetectionPlatform\backend\Fraud.Application\obj\Debug\net10.0\Fraud.Application.AssemblyInfo.cs
+C:\Programming\Projects\FraudDetectionPlatform\backend\Fraud.Application\obj\Debug\net10.0\Fraud.Application.csproj.CoreCompileInputs.cache
+C:\Programming\Projects\FraudDetectionPlatform\backend\Fraud.Application\obj\Debug\net10.0\Fraud.Ap.8323BEED.Up2Date
+C:\Programming\Projects\FraudDetectionPlatform\backend\Fraud.Application\obj\Debug\net10.0\Fraud.Application.dll
+C:\Programming\Projects\FraudDetectionPlatform\backend\Fraud.Application\obj\Debug\net10.0\refint\Fraud.Application.dll
+C:\Programming\Projects\FraudDetectionPlatform\backend\Fraud.Application\obj\Debug\net10.0\Fraud.Application.pdb
+C:\Programming\Projects\FraudDetectionPlatform\backend\Fraud.Application\obj\Debug\net10.0\ref\Fraud.Application.dll
+C:\Programming\Projects\FraudDetectionPlatform\backend\Fraud.Application\obj\Debug\net10.0\Fraud.Application.sourcelink.json

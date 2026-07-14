@@ -1,0 +1,12 @@
+C:\Programming\Projects\FraudDetectionPlatform\backend\Fraud.Domain\bin\Debug\net10.0\Fraud.Domain.deps.json
+C:\Programming\Projects\FraudDetectionPlatform\backend\Fraud.Domain\bin\Debug\net10.0\Fraud.Domain.dll
+C:\Programming\Projects\FraudDetectionPlatform\backend\Fraud.Domain\bin\Debug\net10.0\Fraud.Domain.pdb
+C:\Programming\Projects\FraudDetectionPlatform\backend\Fraud.Domain\obj\Debug\net10.0\Fraud.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Projects\FraudDetectionPlatform\backend\Fraud.Domain\obj\Debug\net10.0\Fraud.Domain.AssemblyInfoInputs.cache
+C:\Programming\Projects\FraudDetectionPlatform\backend\Fraud.Domain\obj\Debug\net10.0\Fraud.Domain.AssemblyInfo.cs
+C:\Programming\Projects\FraudDetectionPlatform\backend\Fraud.Domain\obj\Debug\net10.0\Fraud.Domain.csproj.CoreCompileInputs.cache
+C:\Programming\Projects\FraudDetectionPlatform\backend\Fraud.Domain\obj\Debug\net10.0\Fraud.Domain.dll
+C:\Programming\Projects\FraudDetectionPlatform\backend\Fraud.Domain\obj\Debug\net10.0\refint\Fraud.Domain.dll
+C:\Programming\Projects\FraudDetectionPlatform\backend\Fraud.Domain\obj\Debug\net10.0\Fraud.Domain.pdb
+C:\Programming\Projects\FraudDetectionPlatform\backend\Fraud.Domain\obj\Debug\net10.0\ref\Fraud.Domain.dll
+C:\Programming\Projects\FraudDetectionPlatform\backend\Fraud.Domain\obj\Debug\net10.0\Fraud.Domain.sourcelink.json
